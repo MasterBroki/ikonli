@@ -22,7 +22,9 @@ You can get the latest version of **Ikonli** directly from link:https://bintray.
 
 Refer to the link:http://aalmiray.github.io/ikonli/[guide, window="_blank"] for further information on configuration
 and usage.
+
 == CheatSheets
+
 https://masterbroki.github.io/ikonli/cheat-sheet-fontawesome.html
 
 == Building
